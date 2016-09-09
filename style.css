@@ -1,14 +1,15 @@
 .header{
   font-family: Didot, Georgia, Garamond;
   text-align: center;
-  h2 {
-    font-size: 300px;
+}
+.header h2 {
+    font-size: 150px;
   }
 img.center {
     display: block;
     margin: 0 auto;
 }
-  p{
+p {
     font-size: 40px;
   }
 }
