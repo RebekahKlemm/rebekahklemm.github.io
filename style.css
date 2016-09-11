@@ -26,7 +26,8 @@
 
 .details h3 {
   margin-top: 3rem;
-  border-top: 1px ridge black;
+  border-top: 1px ridge gray;
+  padding: 1rem;
   font-size: 28px;
 }
 
