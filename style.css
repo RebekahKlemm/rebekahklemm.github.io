@@ -9,7 +9,7 @@
 
 .thumbnail {
     display: block;
-    margin: 0 auto;
+    margin: 2rem auto;
     border: 5px solid black;
 }
 
@@ -28,3 +28,6 @@
   margin-top: 3rem;
 }
 
+.details ul {
+  margin-bottom: 3rem;
+}
