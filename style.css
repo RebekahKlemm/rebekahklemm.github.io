@@ -26,6 +26,7 @@
 
 .details h3 {
   margin-top: 3rem;
+  border-top: 1px ridge black;
   font-size: 28px;
 }
 
