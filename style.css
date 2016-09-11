@@ -1,8 +1,8 @@
-font-family: Didot, Georgia, Garamond;
-
-.header{
+.header {
+  font-family: Didot, Georgia, Garamond;
   text-align: center;
 }
+
 .header h2 {
     font-size: 80px;
   }
@@ -14,7 +14,11 @@ font-family: Didot, Georgia, Garamond;
 }
 
 .about {
-    text-align: center;
+  font-family: Didot, Georgia, Garamond;
+  text-align: center;
 }
 
+.body {
+  font-family: Didot, Georgia, Garamond;
 }
+
