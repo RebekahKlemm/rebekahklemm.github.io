@@ -16,6 +16,8 @@
 .about {
   font-family: Didot, Georgia, Garamond;
   text-align: center;
+  margin-left: 10rem;
+  margin-right: 10rem;
 }
 
 .details {
